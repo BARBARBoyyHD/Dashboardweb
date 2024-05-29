@@ -1,0 +1,16 @@
+{
+  "scorecard": {
+    "United Kingdom": {
+      "2015": { "revenue": 2220143, "profit": 1014085, "itemSold": 33439 },
+      "2016": { "revenue": 2600379, "profit": 1103233, "itemSold": 43194 }
+    },
+    "France": {
+      "2015": { "revenue": 1871282, "profit": 646498, "itemSold": 26345 },
+      "2016": { "revenue": 1800511, "profit": 635646, "itemSold": 36399 }
+    },
+    "Germany": {
+      "2015": { "revenue": 1925113, "profit": 714038, "itemSold": 24924 },
+      "2016": { "revenue": 2220143, "profit": 859379, "itemSold": 36514 }
+    }
+  }
+}

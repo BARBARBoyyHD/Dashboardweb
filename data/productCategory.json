@@ -1,0 +1,281 @@
+{
+    "productCategory": [{
+            "label": "Accessories",
+            "year": "2015",
+            "revenue": 977618.0
+        },
+        {
+            "label": "Accessories",
+            "year": "2016",
+            "revenue": 1372093.0
+        },
+        {
+            "label": "Bikes",
+            "year": "2015",
+            "revenue": 4819831.0
+        },
+        {
+            "label": "Bikes",
+            "year": "2016",
+            "revenue": 4607171.0
+        },
+        {
+            "label": "Clothing",
+            "year": "2015",
+            "revenue": 475832.0
+        },
+        {
+            "label": "Clothing",
+            "year": "2016",
+            "revenue": 641769.0
+        }
+    ],
+    "countryRevenue": [{
+            "label": "United Kingdom",
+            "year": "2015",
+            "revenue": 2476886.0
+        },
+        {
+            "label": "United Kingdom",
+            "year": "2016",
+            "revenue": 2600379.0
+        },
+        {
+            "label": "Germany",
+            "year": "2015",
+            "revenue": 1925113.0
+        },
+        {
+            "label": "Germany",
+            "year": "2016",
+            "revenue": 2220143.0
+        },
+        {
+            "label": "France",
+            "year": "2015",
+            "revenue": 1871282.0
+        },
+        {
+            "label": "France",
+            "year": "2016",
+            "revenue": 1800511.0
+        }
+    ],
+    "yearlyRevenue": [{
+            "label": "Revenue",
+            "year": "2015",
+            "revenue": 6273281.0
+        },
+        {
+            "label": "Revenue",
+            "year": "2016",
+            "revenue": 6621033.0
+        }
+    ],
+    "yearlyProfit": [{
+            "label": "Profit",
+            "year": "2015",
+            "profit": 2374621.0
+        },
+        {
+            "label": "Profit",
+            "year": "2016",
+            "profit": 2598258.0
+        }
+    ],
+    "countryProfit": [{
+            "label": "United Kingdom",
+            "year": "2015",
+            "profit": 1014085.0
+        },
+        {
+            "label": "United Kingdom",
+            "year": "2016",
+            "profit": 1103233.0
+        },
+        {
+            "label": "Germany",
+            "year": "2015",
+            "profit": 714038.0
+        },
+        {
+            "label": "Germany",
+            "year": "2016",
+            "profit": 859379.0
+        },
+        {
+            "label": "France",
+            "year": "2015",
+            "profit": 646498.00
+        },
+        {
+            "label": "France",
+            "year": "2016",
+            "profit": 635646.00
+        }
+    ],
+    "yearlyItemSold": [{
+            "label": "itemSold",
+            "year": "2015",
+            "quantityOrdered": 84708
+        },
+        {
+            "label": "itemSold",
+            "year": "2016",
+            "quantityOrdered": 116107
+        }
+    ],
+    "countryItemSold": [{
+            "label": "United Kingdom",
+            "year": "2015",
+            "quantityOrdered": 33439
+        },
+        {
+            "label": "United Kingdom",
+            "year": "2016",
+            "quantityOrdered": 43194
+        },
+        {
+            "label": "Germany",
+            "year": "2015",
+            "quantityOrdered": 24924
+        },
+        {
+            "label": "Germany",
+            "year": "2016",
+            "quantityOrdered": 36514
+        },
+        {
+            "label": "France",
+            "year": "2015",
+            "quantityOrdered": 26345
+        },
+        {
+            "label": "France",
+            "year": "2016",
+            "quantityOrdered": 36399
+        }
+    ],
+    "monthlyRevenue": [{
+            "label": "January",
+            "year": 2015,
+            "revenue": 220516
+        },
+        {
+            "label": "January",
+            "year": 2016,
+            "revenue": 911135
+        },
+        {
+            "label": "February",
+            "year": 2015,
+            "revenue": 225588
+        },
+        {
+            "label": "February",
+            "year": 2016,
+            "revenue": 920882
+        },
+        {
+            "label": "March",
+            "year": 2015,
+            "revenue": 265510
+        },
+        {
+            "label": "March",
+            "year": 2016,
+            "revenue": 1049725
+        },
+        {
+            "label": "April",
+            "year": 2015,
+            "revenue": 260446
+        },
+        {
+            "label": "April",
+            "year": 2016,
+            "revenue": 1056264
+        },
+        {
+            "label": "May",
+            "year": 2015,
+            "revenue": 278787
+        },
+        {
+            "label": "May",
+            "year": 2016,
+            "revenue": 1217737
+        },
+        {
+            "label": "June",
+            "year": 2015,
+            "revenue": 276911
+        },
+        {
+            "label": "June",
+            "year": 2016,
+            "revenue": 1326210
+        },
+        {
+            "label": "July",
+            "year": 2015,
+            "revenue": 617797
+        },
+        {
+            "label": "July",
+            "year": 2016,
+            "revenue": 139080
+        },
+        {
+            "label": "August",
+            "year": 2015,
+            "revenue": 655782
+        },
+        {
+            "label": "August",
+            "year": 2016,
+            "revenue": null
+        },
+        {
+            "label": "September",
+            "year": 2015,
+            "revenue": 740698
+        },
+        {
+            "label": "September",
+            "year": 2016,
+            "revenue": null
+        },
+        {
+            "label": "October",
+            "year": 2015,
+            "revenue": 715508
+        },
+        {
+            "label": "October",
+            "year": 2016,
+            "revenue": null
+        },
+        {
+            "label": "November",
+            "year": 2015,
+            "revenue": 771821
+        },
+        {
+            "label": "November",
+            "year": 2016,
+            "revenue": null
+        },
+        {
+            "label": "December",
+            "year": 2015,
+            "revenue": 1243917
+        },
+        {
+            "label": "December",
+            "year": 2016,
+            "revenue": null
+        }
+    ]
+
+}

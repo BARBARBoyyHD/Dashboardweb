@@ -1,0 +1,41 @@
+{
+    "salesData": {
+      "2015": {
+        "Adults": {
+          "Male": 1355519.0,
+          "Female": 1555323.0
+        },
+        "Young Adults": {
+          "Male": 1354124.0,
+          "Female": 1178874.0
+        },
+        "Youth": {
+          "Male": 409558.0,
+          "Female": 409870.0
+        },
+        "Seniors": {
+          "Male": 6943.0,
+          "Female": 3070.0
+        }
+      },
+      "2016": {
+        "Adults": {
+          "Male": 1600312.0,
+          "Female": 1551707.0
+        },
+        "Young Adults": {
+          "Male": 1373882.0,
+          "Female": 1291762.0
+        },
+        "Youth": {
+          "Male": 352002.0,
+          "Female": 425824.0
+        },
+        "Seniors": {
+          "Male": 11344.0,
+          "Female": 14200.0
+        }
+      }
+    }
+  }
+  
